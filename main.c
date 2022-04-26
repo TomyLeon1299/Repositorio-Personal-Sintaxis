@@ -1,3 +1,5 @@
+// Tomas Leon K2002
+
 #include <stdio.h>
 #include <ctype.h>
 
